@@ -1,2 +1,2 @@
 # grafos
-Resolução de problemas usando teoria dos grafos, na linguagem C++
+Resolução de problemas usando teoria dos grafos, na linguagem C++ e python.
