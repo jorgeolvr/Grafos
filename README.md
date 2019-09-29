@@ -11,7 +11,7 @@ git clone https://github.com/jorgeolvr/grafos.git
 
 # Biblioteca utilizada
 
-- [NetworkX](https://networkx.github.io/)
+- [NetworkX](https://networkx.github.io/) - Uma biblioteca do Python para criação, manipulação e estudo de grafos e redes complexas
 
 ## Programas em C++
 
