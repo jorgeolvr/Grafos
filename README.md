@@ -1,5 +1,5 @@
 # Grafos
-Resolução de problemas usando teoria dos grafos, na linguagem C++ e python.
+Resolução de problemas usando teoria dos grafos e redes complexas na linguagem C++ e python.
 
 # Como testar na minha máquina?
 
@@ -22,7 +22,7 @@ gcc arquivo.cpp -o arquivo
 ./arquivo < pub.in > pub.out
 ```
 
-## Programas em C++
+## Programas em Python
 
 Para rodar o programa em Python na versão 3, apenas execute o comando abaixo:
 
