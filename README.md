@@ -18,7 +18,7 @@ git clone https://github.com/jorgeolvr/grafos.git
 Para rodar o programa C++ na sua máquina, é necessário compilar e executar com os seguintes comandos:
 
 ```
-gcc arquivo.cpp -o arquivo
+g++ arquivo.cpp -o arquivo
 ./arquivo < pub.in > pub.out
 ```
 
