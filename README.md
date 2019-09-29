@@ -1,4 +1,4 @@
-# Grafos
+# Algoritmos em Grafos
 Resolução de problemas usando teoria dos grafos e redes complexas na linguagem C++ e python.
 
 # Como testar na minha máquina?
